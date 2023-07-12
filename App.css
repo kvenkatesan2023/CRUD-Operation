@@ -1,0 +1,31 @@
+.App {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   flex-direction: column;
+   color: white;
+   background-color:#364968;
+
+}
+.form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+  table {
+    border: 2px solid white;
+    width: 800px;
+    height: 200px;
+}
+th {
+  border-bottom: 3px solid black;
+  height: 50px
+}
+
+td {
+  text-align: center;
+}
+
